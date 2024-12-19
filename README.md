@@ -23,10 +23,13 @@ A brief description of what your project does and its features.
    git clone https://github.com/yourusername/your-repo-name.git
 
 Install dependencies: Navigate into the project directory and run the following command to install dependencies:
+```bash
 cd celebrate
 flutter pub get
 
+```
 Run the project: To run the app on an emulator or connected device, use the following command:
+```bash
 flutter run
 
 
