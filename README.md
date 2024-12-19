@@ -20,7 +20,7 @@ A brief description of what your project does and its features.
 1. **Clone the repository**:
    Clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   https://github.com/anilkumar572/Canva_Flutter.git
 
 Install dependencies: Navigate into the project directory and run the following command to install dependencies:
 ```bash
